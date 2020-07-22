@@ -8,7 +8,13 @@ It uses an innovative method of modeling stratigraphic layers in the form of a g
 
 And [this video by Vincent Mora explains **the founding concepts of Albion**](https://vimeo.com/328677023).
 
-[Here is a quick install doc](quick_dev_install.md).
+## Documentation
+
+- [Here is a quick install doc](quick_dev_install.md) 
+- [here is a full tutorial (in french)](https://oslandia.gitlab.io/albion_doc/) 
+- the source of the documentation is [here](https://gitlab.com/Oslandia/albion_doc)
+
+## Screenshots
 
 Some screenshots of the main interface, including 3D rendering : 
 
